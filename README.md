@@ -28,7 +28,7 @@ Working through an 8-week, real-world data pipeline (NYC Taxi data) covering:
 
 > I update this as I learn each tool in the program.
 
-**Comfortable with:** Git, GitHub, VS Code, Claude Code
+**Comfortable with:** Git, GitHub, VS Code, Claude Code, Snowflake, AWS, Terraform, Harness, Jenkins, Python
 
 **Learning now:** Python · Google Cloud (BigQuery, GCS) · SQL
 

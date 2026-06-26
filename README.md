@@ -8,9 +8,9 @@ I'm building production-grade data engineering skills the hard way — by hand, 
 
 ## 🌟 About Me
 
-- 🎓 REPLACE-ME — one line about your background (degree, where you're from, or how you got into data).
+- 🎓 Graduated from UConn with a B.S. in Computer Science and a B.A. in Economics.
 - 🛠️ Currently in the **TechCatalyst Data Engineering 2026** bootcamp at The Hartford.
-- 💡 REPLACE-ME — one thing you're excited to build or learn.
+- 💡 Excited to build enterprise-grade data pipelines.
 - 📫 Reach me: [LinkedIn](REPLACE-ME-LINKEDIN-URL)
 
 ---
